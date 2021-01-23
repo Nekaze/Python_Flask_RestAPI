@@ -3,6 +3,11 @@
 This project adds a simple flask RESTful API provides an interface to read, write and delete to a tiny DB instance,
 either by source_id or by log value.
 
+## Requirements
+Python3 is required
+It is recommended to use a venv and install there the project dependencies using the following command:
+`pip install -r requirements.txt`
+
 ## Usage:
 
 Display all DB entries
