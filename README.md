@@ -5,7 +5,8 @@ either by source_id or by log value.
 
 ## Requirements
 Python3 is required
-It is recommended to use a venv and install there the project dependencies using the following command:
+
+This project uses TinyDB, Flask, and Flask_restful. It is recommended to use a venv and install there the project dependencies using the following command:
 
 `pip install -r requirements.txt`
 
