@@ -1,7 +1,6 @@
 # Simple Python RESTful API with Flask
 
-This project adds a simple flask RESTful API provides an interface to read, write and delete to a tiny DB instance,
-either by source_id or by log value.
+This project provides a simple flask RESTful API interface to read, write and delete to a Tiny DB instance, either by source_id or by log value.
 
 ## Requirements
 Python3 is required
