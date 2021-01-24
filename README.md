@@ -12,9 +12,9 @@ This project uses TinyDB, Flask, and Flask_restful. It is recommended to use a v
 
 ## Usage:
 
-`Display all DB entries`
+- Display all DB entries
 
-curl --location --request GET 'http://localhost:5000'
+`curl --location --request GET 'http://localhost:5000'`
 
 - Create a new SOURCE_ID entry with json object log value VALUE
 
